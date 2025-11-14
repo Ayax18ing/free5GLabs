@@ -64,4 +64,4 @@ Continuous Deployment (CD) is a software development practice where code changes
 The delivery process of the 5G Core Network is more complex than the traditional web application.
 It is because of we need to setup the needed infratructure (machine, network, etc) to run the 5G Core Network, You can imagine that:
 > If you want to deploy the 5G Core Network to the production Kubernetes cluster, You need to setup the Kubernetes cluster, the network, the storage, etc.
-> It is hard to maintain the configuration between the development environment and the production environment.
+> It is hard to maintain the configuration between the development environment and the production environment.Test CI
