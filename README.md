@@ -23,3 +23,4 @@ This document helps the lab newbies (or anyone who interested in 5G Core) to und
 - [Fuzz Testing in Go: Discovering Vulnerabilities and Analyzing a Real Case (CVE-2022-43677)](https://free5gc.org/blog/20230809/main/)
 - [Authentication Mechanism in NRF: What Is OAuth?](https://free5gc.org/blog/20230802/20230802/)
 - [5G SCTP LoadBalancer Using LoxiLB Applying on free5GC](https://medium.com/@ben0978327139/5g-sctp-loadbalancer-using-loxilb-applying-on-free5gc-b5c05bb723f0)
+Activando CI
